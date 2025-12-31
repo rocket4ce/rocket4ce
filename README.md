@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="676" height="1793" alt="Gráfico de Contribuciones" src="https://github.com/user-attachments/assets/9ab9835d-eaa7-493b-aec3-f4e5fa56284a" />
 
 <!--
 **rocket4ce/rocket4ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
